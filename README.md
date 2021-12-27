@@ -4,8 +4,8 @@
 
 | LEVEL                          | Link    | Solved | Total |  Status             |
 | :--------------------------: | :-----------:  | :---------:  | :------: |:---------------:|
-| LEVEL 1 |  [Link](./programmers/level1/README.md) | 11 | 54 | ![status][Doing] |
-| LEVEL 2 |  [Link](./programmers/level2/README.md) | 4 | 64 | ![status][Doing] |
+| LEVEL 1 |  [Link](./programmers/level1/README.md) | 12 | 54 | ![status][Doing] |
+| LEVEL 2 |  [Link](./programmers/level2/README.md) | 5 | 64 | ![status][Doing] |
 | LEVEL 3 |  [Link](./programmers/level3/README.md) | 0 | 55 | ![status][Doing] |
 
 </br>
