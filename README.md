@@ -5,7 +5,7 @@
 | LEVEL                          | Link    | Solved | Total |  Status             |
 | :--------------------------: | :-----------:  | :---------:  | :------: |:---------------:|
 | LEVEL 1 |  [Link](./programmers/level1/README.md) | 54 | 54 | ![status][Done] |
-| LEVEL 2 |  [Link](./programmers/level2/README.md) | 10 | 64 | ![status][Doing] |
+| LEVEL 2 |  [Link](./programmers/level2/README.md) | 11 | 64 | ![status][Doing] |
 | LEVEL 3 |  [Link](./programmers/level3/README.md) | 0 | 55 | ![status][Doing] |
 
 </br>
@@ -18,7 +18,7 @@
 | Greedy |  [Link](./Greedy/README.md) | 0 |
 | Implementation |  [Link](./Implementation/README.md) | 0 |
 | DFS/BFS |  [Link](./DFS-BFS/README.md) | 2 |
-| Sort |  [Link](./Sort/README.md) | 3 |
+| Sort |  [Link](./Sort/README.md) | 6 |
 | Binary Search |  [Link](./Binary%20Search/README.md) | 0 |
 | Dynamic Programming |  [Link](./Dynamic%20Programming/README.md) | 0 |
 | Shortest Path |  [Link](./Shortest%20Path/README.md) | 0 |
