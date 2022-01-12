@@ -19,7 +19,7 @@
 | Implementation |  [Link](./Implementation/README.md) | 0 |
 | DFS/BFS |  [Link](./DFS-BFS/README.md) | 2 |
 | Sort |  [Link](./Sort/README.md) | 8 |
-| Binary Search |  [Link](./Binary%20Search/README.md) | 4 |
+| Binary Search |  [Link](./Binary%20Search/README.md) | 5 |
 | Dynamic Programming |  [Link](./Dynamic%20Programming/README.md) | 0 |
 | Shortest Path |  [Link](./Shortest%20Path/README.md) | 0 |
 | Graph |  [Link](./Graph/README.md) | 0 |
