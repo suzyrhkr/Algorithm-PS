@@ -1,7 +1,7 @@
 # Binary Search
 
 
-|          No.          |        OJ        |        문제 이름         |        Solved     |     Info   |
+|          No.          |        OJ        |        문제 이름         |        Solved     |     Note   |
 | :-----: |  :--------: |:---------------------: | :-----: |:-----: |
 | 01 | None | Binary Search | ✔️ |  |
 | 02 | None | 떡볶이 떡 만들기 | ✔️ | 이것이코딩테스트다 |

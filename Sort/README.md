@@ -1,7 +1,7 @@
 # Sort
 
 
-|          No.          |        OJ        |        문제 이름         |        Solved         | Info |
+|          No.          |        OJ        |        문제 이름         |        Solved         |  Note  |
 | :-----: |  :--------: |:---------------------: | :-----: | :-----: |
 | 01 | None | Selection Sort | ✔️ |
 | 02 | None | Insertion Sort | ✔️ |
