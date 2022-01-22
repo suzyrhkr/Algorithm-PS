@@ -21,11 +21,11 @@ LeetCode, BOJ, Programmers, SW Expert Academy, etc.
 | Implementation |  [Link](./Implementation/README.md) | 0 |
 | DFS/BFS |  [Link](./DFS-BFS/README.md) | 2 |
 | Sort |  [Link](./Sort/README.md) | 8 |
-| Binary Search |  [Link](./Binary%20Search/README.md) | 6 |
-| Dynamic Programming |  [Link](./Dynamic%20Programming/README.md) | 4 |
-| Shortest Path |  [Link](./Shortest%20Path/README.md) | 0 |
+| Binary Search |  [Link](./Binary-Search/README.md) | 6 |
+| Dynamic Programming |  [Link](./Dynamic-Programming/README.md) | 4 |
+| Shortest Path |  [Link](./Shortest-Path/README.md) | 0 |
 | Graph |  [Link](./Graph/README.md) | 0 |
-| Bit Manipulation |  [Link](./Bit%20Manipulation/README.md) | 8 |
+| Bit Manipulation |  [Link](./Bit-Manipulation/README.md) | 8 |
 
 <br>
 
