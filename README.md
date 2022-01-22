@@ -25,7 +25,7 @@ LeetCode, BOJ, Programmers, SW Expert Academy, etc.
 | Dynamic Programming |  [Link](./Dynamic%20Programming/README.md) | 4 |
 | Shortest Path |  [Link](./Shortest%20Path/README.md) | 0 |
 | Graph |  [Link](./Graph/README.md) | 0 |
-| Bit Manipulation |  [Link](./Bit%20Manipulation/README.md) | 5 |
+| Bit Manipulation |  [Link](./Bit%20Manipulation/README.md) | 7 |
 
 <br>
 

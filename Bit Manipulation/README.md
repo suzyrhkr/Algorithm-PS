@@ -8,3 +8,5 @@
 | 03 | LeetCode | 90. Subsets II | ✔️ |
 | 04 | LeetCode | 190. Reverse Bits | ✔️ |
 | 05 | LeetCode | 136. Single Number | ✔️ |
+| 06 | LeetCode | 861. Score After Flipping Matrix | ✔️ |
+| 07 | LeetCode | 371. Sum of Two Integers | ✔️ |
