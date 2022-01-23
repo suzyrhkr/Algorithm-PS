@@ -10,4 +10,9 @@
 | 05 | LeetCode | 136. Single Number | ✔️ |
 | 06 | LeetCode | 861. Score After Flipping Matrix | ✔️ |
 | 07 | LeetCode | 371. Sum of Two Integers | ✔️ |
-| 08 | LeetCode | 67. Add Binary | ✔️ |
+| 08 | LeetCode | 67. *Add Binary | ✔️ |
+
+
+</br>
+
+### Bit Manipulation Tricks:　[Click Here](https://emre.me/computer-science/bit-manipulation-tricks/)
