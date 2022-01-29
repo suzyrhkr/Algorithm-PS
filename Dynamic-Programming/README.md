@@ -11,3 +11,5 @@
 | 06 | 백준 | 정수 삼각형 | ✔️ | IOI 1994년도 |
 | 07 | None | *퇴사 | ✔️ | 삼성전자 SW 역량테스트 |
 | 08 | LeetCode | 121. Best Time to Buy and Sell Stock | ✔️ |  |
+| 09 | LeetCode | 338. Counting Bits | ✔️ |  |
+
