@@ -3,10 +3,7 @@ class Solution(object):
         ans = []
         
         for num in range(n+1):
-            binary = bin(num)[2:]
-            
             cnt = 0
-
             # counting 1 using bit manipulation
             while num!=0:
                 num = num&(num-1)

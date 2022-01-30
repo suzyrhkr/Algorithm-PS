@@ -12,4 +12,5 @@
 | 07 | None | *퇴사 | ✔️ | 삼성전자 SW 역량테스트 |
 | 08 | LeetCode | 121. Best Time to Buy and Sell Stock | ✔️ |  |
 | 09 | LeetCode | 338. Counting Bits | ✔️ |  |
+| 10 | LeetCode | 53. Maximum Subarray | ✔️ |  |
 
