@@ -22,7 +22,7 @@ LeetCode, BOJ, Programmers, SW Expert Academy, etc.
 | DFS/BFS |  [Link](./DFS-BFS/README.md) | 2 |
 | Sort |  [Link](./Sort/README.md) | 8 |
 | Binary Search |  [Link](./Binary-Search/README.md) | 6 |
-| Dynamic Programming |  [Link](./Dynamic-Programming/README.md) | 10 |
+| Dynamic Programming |  [Link](./Dynamic-Programming/README.md) | 12 |
 | Shortest Path |  [Link](./Shortest-Path/README.md) | 0 |
 | Graph |  [Link](./Graph/README.md) | 0 |
 | Bit Manipulation |  [Link](./Bit-Manipulation/README.md) | 8 |
