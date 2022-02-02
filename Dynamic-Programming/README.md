@@ -10,8 +10,10 @@
 | 05 | None | *금광 | ✔️ | Flipkart 인터뷰 |
 | 06 | 백준 | 정수 삼각형 | ✔️ | IOI 1994년도 |
 | 07 | None | *퇴사 | ✔️ | 삼성전자 SW 역량테스트 |
-| 08 | LeetCode | 121. Best Time to Buy and Sell Stock | ✔️ |  |
+| 08 | LeetCode | *121. Best Time to Buy and Sell Stock | ✔️ |  |
 | 09 | LeetCode | 338. Counting Bits | ✔️ |  |
-| 10 | LeetCode | 53. Maximum Subarray | ✔️ |  |
-| 11 | LeetCode | 198. House Robber | ✔️ |  |
-| 12 | LeetCode | 213. House Robber II | ✔️ |  |
+| 10 | LeetCode | *53. Maximum Subarray | ✔️ |  |
+| 11 | LeetCode | 198. House Robber | ✔️ | 개미 전사 |
+| 12 | LeetCode | *213. House Robber II | ✔️ |  |
+| 13 | None | *못생긴 수 | ✔️ | Google 인터뷰 |
+| 14 | LeetCode | *72. Edit Distance | ✔️ | Goldman Sachs 인터뷰 |
