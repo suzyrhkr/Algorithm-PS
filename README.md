@@ -18,7 +18,7 @@ LeetCode, BOJ, Programmers, SW Expert Academy, etc.
 | Contents                          | Link    | Solved |
 | :--------------------------: | :-----------:  | :---------:  |
 | Greedy |  [Link](./Greedy/README.md) | 2 |
-| Implementation |  [Link](./Implementation/README.md) | 0 |
+| Implementation |  [Link](./Implementation/README.md) | 1 |
 | DFS/BFS |  [Link](./DFS-BFS/README.md) | 2 |
 | Sort |  [Link](./Sort/README.md) | 8 |
 | Binary Search |  [Link](./Binary-Search/README.md) | 6 |
