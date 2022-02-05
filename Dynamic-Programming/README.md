@@ -18,3 +18,4 @@
 | 13 | None | *못생긴 수 | ✔️ | Google 인터뷰 |
 | 14 | LeetCode | *72. Edit Distance | ✔️ | Goldman Sachs 인터뷰 |
 | 15 | LeetCode | *518. Coin Change 2 | ✔️ | |
+| 16 | LeetCode | *2140. Solving Questions With Brainpower | ✔️ | 유사 문제: 퇴사 |
