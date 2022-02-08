@@ -7,7 +7,7 @@ LeetCode, BOJ, Programmers, SW Expert Academy, etc.
 | LEVEL                          | Link    | Solved | Total |  Status             |
 | :--------------------------: | :-----------:  | :---------:  | :------: |:---------------:|
 | LEVEL 1 |  [Link](./programmers/level1/README.md) | 55 | 55 | ![status][Done] |
-| LEVEL 2 |  [Link](./programmers/level2/README.md) | 13 | 64 | ![status][Doing] |
+| LEVEL 2 |  [Link](./programmers/level2/README.md) | 14 | 64 | ![status][Doing] |
 | LEVEL 3 |  [Link](./programmers/level3/README.md) | 0 | 55 | ![status][Doing] |
 
 </br>
@@ -22,7 +22,7 @@ LeetCode, BOJ, Programmers, SW Expert Academy, etc.
 | DFS/BFS |  [Link](./DFS-BFS/README.md) | 2 |
 | Sort |  [Link](./Sort/README.md) | 8 |
 | Binary Search |  [Link](./Binary-Search/README.md) | 6 |
-| Dynamic Programming |  [Link](./Dynamic-Programming/README.md) | 16 |
+| Dynamic Programming |  [Link](./Dynamic-Programming/README.md) | 17 |
 | Shortest Path |  [Link](./Shortest-Path/README.md) | 0 |
 | Graph |  [Link](./Graph/README.md) | 0 |
 | Bit Manipulation |  [Link](./Bit-Manipulation/README.md) | 8 |
