@@ -7,7 +7,7 @@ LeetCode, BOJ, Programmers, SW Expert Academy, etc.
 | LEVEL                          | Link    | Solved | Total |  Status             |
 | :--------------------------: | :-----------:  | :---------:  | :------: |:---------------:|
 | LEVEL 1 |  [Link](./programmers/level1/README.md) | 55 | 55 | ![status][Done] |
-| LEVEL 2 |  [Link](./programmers/level2/README.md) | 14 | 64 | ![status][Doing] |
+| LEVEL 2 |  [Link](./programmers/level2/README.md) | 15 | 64 | ![status][Doing] |
 | LEVEL 3 |  [Link](./programmers/level3/README.md) | 0 | 55 | ![status][Doing] |
 
 </br>
@@ -18,7 +18,7 @@ LeetCode, BOJ, Programmers, SW Expert Academy, etc.
 | Contents                          | Link    | Solved |
 | :--------------------------: | :-----------:  | :---------:  |
 | Greedy |  [Link](./Greedy/README.md) | 2 |
-| Implementation |  [Link](./Implementation/README.md) | 1 |
+| Implementation |  [Link](./Implementation/README.md) | 2 |
 | DFS/BFS |  [Link](./DFS-BFS/README.md) | 2 |
 | Sort |  [Link](./Sort/README.md) | 8 |
 | Binary Search |  [Link](./Binary-Search/README.md) | 6 |
