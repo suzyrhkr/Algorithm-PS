@@ -7,7 +7,7 @@ LeetCode, BOJ, Programmers, SW Expert Academy, etc.
 | LEVEL                          | Link    | Solved | Total |  Status             |
 | :--------------------------: | :-----------:  | :---------:  | :------: |:---------------:|
 | LEVEL 1 |  [Link](./programmers/level1/README.md) | 55 | 55 | ![status][Done] |
-| LEVEL 2 |  [Link](./programmers/level2/README.md) | 18 | 64 | ![status][Doing] |
+| LEVEL 2 |  [Link](./programmers/level2/README.md) | 20 | 64 | ![status][Doing] |
 | LEVEL 3 |  [Link](./programmers/level3/README.md) | 0 | 55 | ![status][Doing] |
 
 </br>
@@ -26,6 +26,7 @@ LeetCode, BOJ, Programmers, SW Expert Academy, etc.
 | Shortest Path |  [Link](./Shortest-Path/README.md) | 0 |
 | Graph |  [Link](./Graph/README.md) | 0 |
 | Bit Manipulation |  [Link](./Bit-Manipulation/README.md) | 8 |
+| Stack/Queue |  [Link](./Stack-Queue/README.md) | 1 |
 
 <br>
 
