@@ -26,7 +26,7 @@ LeetCode, BOJ, Programmers, SW Expert Academy, etc.
 | Shortest Path |  [Link](./Shortest-Path/README.md) | 0 |
 | Graph |  [Link](./Graph/README.md) | 0 |
 | Bit Manipulation |  [Link](./Bit-Manipulation/README.md) | 8 |
-| Stack/Queue |  [Link](./Stack-Queue/README.md) | 1 |
+| Stack/Queue |  [Link](./Stack-Queue/README.md) | 2 |
 
 <br>
 
