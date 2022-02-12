@@ -1,7 +1,6 @@
-from itertools import combinations
 class Solution:
     def removeKdigits(self, num: str, k: int) -> str:
-        if len(num)<=k:
+        if len(num)==k:
             return "0"
     
         stack = []
@@ -14,6 +13,7 @@ class Solution:
             
         stack = "".join(stack).lstrip("0")
         
+        # if stack is empty or k remains..
         if not stack or len(stack)<=k:
             return "0"
         
