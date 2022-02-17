@@ -4,20 +4,20 @@ def correct_str(s):
     stack = []
     
     for ch in s:
-        if ch == '(' or ch == '{' or ch == '[':
+        if ch in ['(', '[', '{']:
             stack.append(ch)
+            continue
         else:
-            if len(stack) == 0: 
+            if not stack:
                 return False
-            x = stack.pop()
+        
+        if stack[-1]=='[' and ch==']':
+            stack.pop()
+        elif stack[-1]=='{' and ch=='}':
+            stack.pop()
+        elif stack[-1]=='(' and ch==')':
+            stack.pop()
             
-            if ch == ')' and x != '(':
-                return False
-            elif ch == ')' and x != '(':
-                return False
-            elif ch == '}' and x != '{':
-                return False
-
     return True if not stack else False
     
 def solution(s):
