@@ -19,7 +19,7 @@ LeetCode, BOJ, Programmers, SW Expert Academy, etc.
 | :--------------------------: | :-----------:  | :---------:  |
 | Greedy |  [Link](./Greedy/README.md) | 2 |
 | Implementation |  [Link](./Implementation/README.md) | 3 |
-| DFS/BFS |  [Link](./DFS-BFS/README.md) | 3 |
+| DFS/BFS |  [Link](./DFS-BFS/README.md) | 4 |
 | Sort |  [Link](./Sort/README.md) | 8 |
 | Binary Search |  [Link](./Binary-Search/README.md) | 6 |
 | Dynamic Programming |  [Link](./Dynamic-Programming/README.md) | 17 |
