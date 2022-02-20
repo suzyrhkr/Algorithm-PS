@@ -7,3 +7,4 @@
 | 02 | None | 미로 탈출 | ✔️ | 이것이코딩테스트다 |
 | 03 | LeetCode | 637. Average of Levels in Binary Tree | ✔️ | |
 | 04 | LeetCode | 449. Serialize and Deserialize BST | ✔️ | |
+| 05 | LeetCode | 662. Maximum Width of Binary Tree | ✔️ | |
