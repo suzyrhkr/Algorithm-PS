@@ -9,3 +9,4 @@
 | 04 | LeetCode | 449. Serialize and Deserialize BST | ✔️ | |
 | 05 | LeetCode | 662. Maximum Width of Binary Tree | ✔️ | |
 | 06 | LeetCode | 236. Lowest Common Ancestor of a Binary Tree | ✔️ | |
+| 07 | LeetCode | 98. Validate Binary Search Tree | ✔️ | |
