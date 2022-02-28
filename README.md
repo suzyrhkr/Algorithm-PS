@@ -27,7 +27,7 @@ LeetCode, BOJ, Programmers, SW Expert Academy, etc.
 | Graph |  [Link](./Graph/README.md) | 0 |
 | Bit Manipulation |  [Link](./Bit-Manipulation/README.md) | 8 |
 | Stack/Queue |  [Link](./Stack-Queue/README.md) | 4 |
-| Back Tracking |  [Link](./Back-Tracking/README.md) | 1 |
+| Back Tracking |  [Link](./Back-Tracking/README.md) | 2 |
 
 <br>
 
