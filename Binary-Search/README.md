@@ -9,3 +9,4 @@
 | 04 | None | 고정점 찾기 | ✔️ | Amazon Interview |
 | 05 | 백준 | *공유기 설치 | ✔️ |  |
 | 06 | Programmers | *가사 검색 | ✔️ | 2020 카카오 신입 공채 1차 |
+| 07 | LeetCode | 35. Search Insert Position | ✔️ |  |
