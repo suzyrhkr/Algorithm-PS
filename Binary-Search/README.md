@@ -12,3 +12,4 @@
 | 07 | LeetCode | 35. Search Insert Position | ✔️ |  |
 | 08 | LeetCode | 287. Find the Duplicate Number | ✔️ |  |
 | 09 | LeetCode | 938. Range Sum of BST | ✔️ |  |
+| 10 | LeetCode | 1046. Last Stone Weight | ✔️ |  |
