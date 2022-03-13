@@ -2,8 +2,6 @@ class Solution:
     def lastStoneWeight(self, stones: List[int]) -> int:
         answer = 0
         while True:
-            if not stones:
-                answer = 0
             if len(stones) == 1:
                 answer = stones[0]
                 break
