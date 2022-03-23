@@ -5,4 +5,5 @@
 |          No.          |        OJ        |        문제 이름         |        Solved         |     Note   |
 | :-----: |  :--------: |:---------------------: | :-----: |:-----: |
 | 01 | LeetCode | 209. Minimum Size Subarray Sum | ✔️ |  |
+| 02 | LeetCode | 1. Two Sum | ✔️ |  |
 
