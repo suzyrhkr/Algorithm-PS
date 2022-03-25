@@ -4,8 +4,12 @@ def solution(people, limit):
     i, j = 0, len(people)-1
     
     while i<=j:
+        answer += 1
+        if i == j:
+            i+=1
+            continue
         if people[i] + people[j] <= limit:
             i += 1
         j -= 1
-        answer += 1
+        
     return answer
