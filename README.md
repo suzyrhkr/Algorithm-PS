@@ -15,7 +15,7 @@ LeetCode, BOJ, Programmers, SW Expert Academy, etc.
 ## 삼성 SW 역량 테스트 기출 문제
 | Contents                 | Link    | Solved | Total |  Status             |
 | :--------------------------: | :-----------:  | :---------:  | :------: |:---------------:|
-| 삼성 SW 역량 테스트 기출 |  [Link](./samsung-sw/README.md) | 4 | 45 | ![status][Doing] |
+| 삼성 SW 역량 테스트 기출 |  [Link](./samsung-sw/README.md) | 5 | 45 | ![status][Doing] |
 
 </br>
 

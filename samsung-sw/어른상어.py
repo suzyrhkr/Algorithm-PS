@@ -36,9 +36,7 @@ def move():
                     ny = y + dy[priorities[space[x][y] - 1][direction - 1][idx] - 1]
                     if 0 <= nx and nx < n and 0 <= ny and ny < n:
                         if smell_space[nx][ny][1] == 0: 
-           
                             directions[space[x][y] - 1] = priorities[space[x][y] - 1][direction - 1][idx]
-                       
                             if new_space[nx][ny] == 0:
                                 new_space[nx][ny] = space[x][y]
                             else:
@@ -47,13 +45,12 @@ def move():
                             break
                 if found:
                     continue
-     
+
                 for idx in range(4):
                     nx = x + dx[priorities[space[x][y] - 1][direction - 1][idx] - 1]
                     ny = y + dy[priorities[space[x][y] - 1][direction - 1][idx] - 1]
                     if 0 <= nx and nx < n and 0 <= ny and ny < n:
                         if smell_space[nx][ny][0] == space[x][y]: 
-                      
                             directions[space[x][y] - 1] = priorities[space[x][y] - 1][direction - 1][idx]
                             new_space[nx][ny] = space[x][y]
                             break
