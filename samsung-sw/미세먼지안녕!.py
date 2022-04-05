@@ -10,7 +10,7 @@ def dust():
     
     for i in range(r):
         for j in range(c):
-            # 미세먼지가 있는 경우(공기청정기 있는 칸이 아닌.)
+            # (공기 청정기 있는 칸이 아닌) 미세먼지가 있는 경우
             current_dust = space[i][j]
             difuse_dust = current_dust//5
             cnt = 0 # 확산된 방 개수 
@@ -26,7 +26,6 @@ def dust():
     for i in range(r):
         for j in range(c):
             space[i][j] += add_dust[i][j]
-            
     return
 
 # 공기 청정기 위치 찾기 func
@@ -57,17 +56,17 @@ def fresh_air(location):
         space[r-1][j-1] = space[r-1][j] 
     for i in range(r-2, downside-1, -1): # 하 이동
         space[i+1][c-1] = space[i][c-1]
-    for j in range(c-2, 0, -1):
+    for j in range(c-2, 0, -1): # 우 이동
         space[downside][j+1] = space[downside][j]
 
     # 공기 청정기 위치에 -1 다시 입력
     space[upside][0], space[downside][0] = -1, -1
-    # upside, downside의 공기 정화 부분
+    # upside, downside의 공기 정화되어 나가는 부분
     space[upside][1] = 0
     space[downside][1] = 0
-
     return
 
+# 방 안의 미세먼지 계산 func
 def remaining_dust():
     dust_sum = 0
     for i in range(r):
