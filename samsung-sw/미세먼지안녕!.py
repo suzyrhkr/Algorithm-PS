@@ -1,3 +1,5 @@
+# 1시간 15분 소요 
+
 r, c, t = map(int, input().split())
 space = [list(map(int, input().split())) for _ in range(r)]
 
