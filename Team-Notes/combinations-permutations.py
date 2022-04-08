@@ -8,8 +8,8 @@ def combination(arr, n):
         for rest in combination(arr[i + 1:], n - 1):
             result.append([elem] + rest)
     return result
-print(combination([0,1,2,3], 2))
-# [[0, 1], [0, 2], [0, 3], [1, 2], [1, 3], [2, 3]]
+print(combination(['A','A','B'], 2))
+# [['A', 'A'], ['A', 'B'], ['A', 'B']]
 
 '''permutations'''
 def permutation(arr, n):
@@ -21,5 +21,5 @@ def permutation(arr, n):
         for rest in permutation(arr[:i] + arr[i+1:], n - 1):
             result.append([elem] + rest)
     return result
-print(permutation([0,1,2,3], 2))
-# [[0, 1], [0, 2], [0, 3], [1, 0], [1, 2], [1, 3], [2, 0], [2, 1], [2, 3], [3, 0], [3, 1], [3, 2]]
+print(permutation(['A','A','B'], 2))
+# [['A', 'A'], ['A', 'B'], ['A', 'A'], ['A', 'B'], ['B', 'A'], ['B', 'A']]
