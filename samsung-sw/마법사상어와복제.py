@@ -122,7 +122,6 @@ print(count_fishes())
 '''other solution'''
 import sys, copy
 
-sys.stdin = open('/Users/suzykwak/Desktop/input.txt','r')
 input = sys.stdin.readline
 m, s = map(int, input().split())
 fish = [list(map(int, input().split())) for _ in range(m)]
