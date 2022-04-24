@@ -70,9 +70,8 @@ def move_fish():
         for j in range(len(space[i])):
             for idx in range(4):
                 nx, ny = i + dx[idx], j + dy[idx]
-                if 0 <= nx and nx < len(space) and 0 <= ny and ny < len(space[i]): # 범위 체크 잘못 됨
-
-                    if ny <= len(space[nx]) - 1: # ny = 2, space[nx] - 1 = 0
+                if 0 <= nx and nx < len(space) and 0 <= ny and ny < len(space[i]):
+                    if ny <= len(space[nx]) - 1: # 접근하지 못하는 칸 처리
                         if space[nx][ny] < space[i][j]:
                             d = (space[i][j] - space[nx][ny]) // 5
                             if 0 < d:
@@ -91,7 +90,7 @@ def move_fish2():
         for j in range(len(space[i])):
             for idx in range(4):
                 nx, ny = i + dx[idx], j + dy[idx]
-                if 0 <= nx and nx < len(space) and 0 <= ny and ny < len(space[i]): # 범위 체크 잘못 됨
+                if 0 <= nx and nx < len(space) and 0 <= ny and ny < len(space[i]):
                     if space[nx][ny] < space[i][j]:
                         d = (space[i][j] - space[nx][ny]) // 5
                         if 0 < d:
