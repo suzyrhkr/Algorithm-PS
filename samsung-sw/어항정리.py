@@ -45,7 +45,7 @@ def second_go_up():
     for _ in range(2):
         length = len(space) // 2
         rotate_list = [[] for _ in range(length)]
-        w, h = length, len(space[0]) # 4 2
+        w, h = length, len(space[0]) 
         for i in range(w):
             for j in range(h):
                 rotate_list[i].append(space[i][j])
