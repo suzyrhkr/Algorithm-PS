@@ -123,7 +123,6 @@ def bfs(i, j, number):
 
     while queue:
         x, y = queue.popleft()
-        y = y % m
         if board[x][y] == number:
             board[x][y] = 'x'
             cnt += 1
