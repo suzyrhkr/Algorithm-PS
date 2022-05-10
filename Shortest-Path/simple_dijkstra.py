@@ -21,6 +21,7 @@ def get_smallest_node():
             index = i
     return index
 
+# 방문하지 않은 노드 중 가장 최단 거리가 짧은 노드 선택
 def dijkstra(start):
     # 시작 노드 초기화
     distance[start] = 0
@@ -47,6 +48,22 @@ for i in range(1, n+1):
         print("node({}) distance: {}".format(i, distance[i]))
 
 """
+input:
+6 11
+1
+1 2 2
+1 3 5
+1 4 1
+2 3 3
+2 4 2
+3 2 3
+3 6 5
+4 3 3
+4 5 1
+5 3 1
+5 6 2
+
+output:
 node(1) distance: 0
 node(2) distance: 2
 node(3) distance: 3
