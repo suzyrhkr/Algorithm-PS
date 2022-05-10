@@ -29,7 +29,7 @@ LeetCode, BOJ, Programmers, SW Expert Academy, etc.
 | Sort |  [Link](./Sort/README.md) | 8 |
 | Binary Search |  [Link](./Binary-Search/README.md) | 10 |
 | Dynamic Programming |  [Link](./Dynamic-Programming/README.md) | 17 |
-| Shortest Path |  [Link](./Shortest-Path/README.md) | 0 |
+| Shortest Path |  [Link](./Shortest-Path/README.md) | 1 |
 | Graph |  [Link](./Graph/README.md) | 0 |
 | Bit Manipulation |  [Link](./Bit-Manipulation/README.md) | 8 |
 | Stack/Queue |  [Link](./Stack-Queue/README.md) | 4 |
