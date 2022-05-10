@@ -1,5 +1,6 @@
+# Time Complexity: O(V^2) V: # of node
 import sys
-# input = sys.stdin.readline
+input = sys.stdin.readline
 INF = 1e9
 
 n, m = map(int, input().split()) # 노드 개수 / 간선 개수
