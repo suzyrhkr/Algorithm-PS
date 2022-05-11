@@ -1,3 +1,4 @@
+# 한 노드에서 다른 모든 노드로 가는 최단 경로
 # Time Complexity: O(V^2) V: # of node
 import sys
 input = sys.stdin.readline

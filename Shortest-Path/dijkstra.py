@@ -1,3 +1,4 @@
+# 한 노드에서 다른 모든 노드로 가는 최단 경로
 # Time Complexity: O(Elog(V)) E: # of edge / V: # of node
 import heapq
 import sys
