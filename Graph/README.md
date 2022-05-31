@@ -7,3 +7,4 @@
 | 02 | None | Kruscal Algorithm | ✔️ | Greedy Algorithm |
 | 03 | None | Topology  Sort Algorithm (위상정렬) | ✔️ | |
 | 04 | BOJ | 도시 분할 계획 | ✔️ | MST |
+| 05 | None | 커리큘럼 | ✔️ | Topology Sort |
