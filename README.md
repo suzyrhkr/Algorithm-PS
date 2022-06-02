@@ -8,7 +8,7 @@ LeetCode, BOJ, Programmers, SW Expert Academy, etc.
 | :--------------------------: | :-----------:  | :---------:  | :------: |:---------------:|
 | LEVEL 1 |  [Link](./programmers/level1/README.md) | 55 | 55 | ![status][Done] |
 | LEVEL 2 |  [Link](./programmers/level2/README.md) | 33 | 67 | ![status][Doing] |
-| LEVEL 3 |  [Link](./programmers/level3/README.md) | 1 | 60 | ![status][Doing] |
+| LEVEL 3 |  [Link](./programmers/level3/README.md) | 2 | 60 | ![status][Doing] |
 
 </br>
 
