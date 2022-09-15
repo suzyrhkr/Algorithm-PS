@@ -28,3 +28,4 @@
 | 23 | BOJ | 원판 돌리기 | ✔️ | sys.setrecursionlimit |
 | 24 | BOJ | 뱀 | ✔️ | |
 | 25 | BOJ | 치킨 배달 | ✔️ | |
+| 26 | BOJ | 새로운 게임 2 | ✔️ | |
